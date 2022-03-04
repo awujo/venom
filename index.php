@@ -1,6 +1,12 @@
 <!-- W3hubs.com - Download Free Responsive Website Layout Templates designed on HTML5 
   CSS3,Bootstrap,Tailwind CSS,Shoelace Style which are 100% Mobile friendly. w3Hubs all Layouts are responsive 
   cross browser supported, best quality world class designs. -->
+<?php
+
+    include 'logic.php';
+
+?>
+
 <!DOCTYPE html>
 <html>
   <head>
