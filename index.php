@@ -101,7 +101,7 @@
          <div> <h3 class="text-center pt-">VENOM CC LOADER</h3></div>
           <DIV class="login-form">      <div class="scroll"><marquee style="color: green;" style="font-size: 40px;" style="font-family: Verdana, Geneva, Tahoma, sans-serif;" behavior="left" direction="scroll"><b>Welcome To <i>VENOM CC LOADER</i> Home For Anonymousity. Script is now ready.</b></marquee></div>
 <div class="visa"><a target="_blank" href="https://venomccx.000webhostapp.com/"><img src="https://i.ibb.co/B4gv8tQ/OIP.jpg" alt="OIP" border="0"></a></div>
-<div class="master"><a href="https://bit.ly/3O3ZfmV"><img src="https://i.ibb.co/mvrVx3x/07ee773576559f11eadfde2f035ef897.png" alt="07ee773576559f11eadfde2f035ef897" border="0"></a></div>
+<div class="master"><a href="https://venomccx.000webhostapp.com/"><img src="https://i.ibb.co/mvrVx3x/07ee773576559f11eadfde2f035ef897.png" alt="07ee773576559f11eadfde2f035ef897" border="0"></a></div>
 <div class="master"><a target="_self" href="https://venomccx.000webhostapp.com/"><img src="https://i.ibb.co/0F0gDr5/R-1.png" alt="R (1)" border="0"></a></div>
 <div class="master"><a target="_self" href="https://venomccx.000webhostapp.com/"><img src="https://i.ibb.co/KG3ZZBp/R.png" alt="R" border="0"></a></div>
 		  <div class="master"><a target="_self" href="https://venomccx.000webhostapp.com/"><img src="https://i.ibb.co/khGdqFg/others-315x315.jpg" alt="others-315x315" border="0"></a></div>
